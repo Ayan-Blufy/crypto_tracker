@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto_tracker/static/css/main.ec3341f7.css",
+    "main.js": "/crypto_tracker/static/js/main.4ca5d7e2.js",
+    "static/media/Bitcoin P2P.gif": "/crypto_tracker/static/media/Bitcoin P2P.4b22fb0fc4c2ce587f49.gif",
+    "index.html": "/crypto_tracker/index.html",
+    "main.ec3341f7.css.map": "/crypto_tracker/static/css/main.ec3341f7.css.map",
+    "main.4ca5d7e2.js.map": "/crypto_tracker/static/js/main.4ca5d7e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3341f7.css",
+    "static/js/main.4ca5d7e2.js"
+  ]
+}
